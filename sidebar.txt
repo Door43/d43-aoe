@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aoe:home|Door43 (aoe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aoe|d43-aoe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aoe/archive/master.zip|d43-aoe.zip]]
+
+**Recent Changes**
+{{changes>ns = aoe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aoe|Ethnologue data]]
+
